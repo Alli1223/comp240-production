@@ -1,0 +1,35 @@
+Initialize engine version: 5.5.0x1-CollabPreview (09b457573f85)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GTX 965M (ID=0x13d9)
+    Vendor:   NVIDIA
+    VRAM:     2019 MB
+    Driver:   21.21.13.7849
+Begin MonoManager ReloadAssembly
+Platform assembly: E:\Work\Firelock\L2_Red\Builds\NetworkTest_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading E:\Work\Firelock\L2_Red\Builds\NetworkTest_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: E:\Work\Firelock\L2_Red\Builds\NetworkTest_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading E:\Work\Firelock\L2_Red\Builds\NetworkTest_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: E:\Work\Firelock\L2_Red\Builds\NetworkTest_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading E:\Work\Firelock\L2_Red\Builds\NetworkTest_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: E:\Work\Firelock\L2_Red\Builds\NetworkTest_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading E:\Work\Firelock\L2_Red\Builds\NetworkTest_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: E:\Work\Firelock\L2_Red\Builds\NetworkTest_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll (this message is harmless)
+Loading E:\Work\Firelock\L2_Red\Builds\NetworkTest_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll into Unity Child Domain
+Platform assembly: E:\Work\Firelock\L2_Red\Builds\NetworkTest_Data\Managed\ProBuilderCore-Unity5.dll (this message is harmless)
+Loading E:\Work\Firelock\L2_Red\Builds\NetworkTest_Data\Managed\ProBuilderCore-Unity5.dll into Unity Child Domain
+Platform assembly: E:\Work\Firelock\L2_Red\Builds\NetworkTest_Data\Managed\ProBuilderMeshOps-Unity5.dll (this message is harmless)
+Loading E:\Work\Firelock\L2_Red\Builds\NetworkTest_Data\Managed\ProBuilderMeshOps-Unity5.dll into Unity Child Domain
+Platform assembly: E:\Work\Firelock\L2_Red\Builds\NetworkTest_Data\Managed\KDTree.dll (this message is harmless)
+Loading E:\Work\Firelock\L2_Red\Builds\NetworkTest_Data\Managed\KDTree.dll into Unity Child Domain
+Platform assembly: E:\Work\Firelock\L2_Red\Builds\NetworkTest_Data\Managed\pb_Stl.dll (this message is harmless)
+Loading E:\Work\Firelock\L2_Red\Builds\NetworkTest_Data\Managed\pb_Stl.dll into Unity Child Domain
+Platform assembly: E:\Work\Firelock\L2_Red\Builds\NetworkTest_Data\Managed\Triangle.dll (this message is harmless)
+Loading E:\Work\Firelock\L2_Red\Builds\NetworkTest_Data\Managed\Triangle.dll into Unity Child Domain
+- Completed reload, in  0.066 seconds
+Platform assembly: E:\Work\Firelock\L2_Red\Builds\NetworkTest_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: E:\Work\Firelock\L2_Red\Builds\NetworkTest_Data\Managed\System.dll (this message is harmless)
+desktop: 3840x2160 60Hz; virtual: 3840x2160 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
