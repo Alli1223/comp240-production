@@ -115,6 +115,9 @@
      <None Include="Assets\ProCore\ProGrids\About\changelog.txt" />
      <None Include="Assets\ProCore\ProBuilder\readme.txt" />
      <None Include="Assets\ProCore\ProBuilder\About\Credits.txt" />
+ <Reference Include="UnityEngine.Advertisements">
+ <HintPath>D:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/Advertisements/UnityEngine.Advertisements.dll</HintPath>
+ </Reference>
  <Reference Include="UnityEditor.Advertisements">
  <HintPath>D:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/Advertisements/Editor/UnityEditor.Advertisements.dll</HintPath>
  </Reference>
@@ -157,6 +160,9 @@
  <Reference Include="UnityEngine.HoloLens">
  <HintPath>D:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/UnityHoloLens/RuntimeEditor/UnityEngine.HoloLens.dll</HintPath>
  </Reference>
+ <Reference Include="UnityEngine.Purchasing">
+ <HintPath>D:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/UnityPurchasing/UnityEngine.Purchasing.dll</HintPath>
+ </Reference>
  <Reference Include="UnityEditor.VR">
  <HintPath>D:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/UnityVR/Editor/UnityEditor.VR.dll</HintPath>
  </Reference>
@@ -164,22 +170,22 @@
  <HintPath>D:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/UnityVR/RuntimeEditor/UnityEngine.VR.dll</HintPath>
  </Reference>
  <Reference Include="ProBuilderCore-Unity5">
- <HintPath>E:/Work/Firelock/L2_Red/Assets/ProCore/ProBuilder/Classes/ProBuilderCore-Unity5.dll</HintPath>
+ <HintPath>C:/Users/Alastair/Documents/GitHub/comp240-production/L2_Red/Assets/ProCore/ProBuilder/Classes/ProBuilderCore-Unity5.dll</HintPath>
  </Reference>
  <Reference Include="ProBuilderMeshOps-Unity5">
- <HintPath>E:/Work/Firelock/L2_Red/Assets/ProCore/ProBuilder/Classes/ProBuilderMeshOps-Unity5.dll</HintPath>
+ <HintPath>C:/Users/Alastair/Documents/GitHub/comp240-production/L2_Red/Assets/ProCore/ProBuilder/Classes/ProBuilderMeshOps-Unity5.dll</HintPath>
  </Reference>
  <Reference Include="KDTree">
- <HintPath>E:/Work/Firelock/L2_Red/Assets/ProCore/ProBuilder/Classes/ClassesLib/KDTree.dll</HintPath>
+ <HintPath>C:/Users/Alastair/Documents/GitHub/comp240-production/L2_Red/Assets/ProCore/ProBuilder/Classes/ClassesLib/KDTree.dll</HintPath>
  </Reference>
  <Reference Include="pb_Stl">
- <HintPath>E:/Work/Firelock/L2_Red/Assets/ProCore/ProBuilder/Classes/ClassesLib/pb_Stl.dll</HintPath>
+ <HintPath>C:/Users/Alastair/Documents/GitHub/comp240-production/L2_Red/Assets/ProCore/ProBuilder/Classes/ClassesLib/pb_Stl.dll</HintPath>
  </Reference>
  <Reference Include="Triangle">
- <HintPath>E:/Work/Firelock/L2_Red/Assets/ProCore/ProBuilder/Classes/ClassesLib/Triangle.dll</HintPath>
+ <HintPath>C:/Users/Alastair/Documents/GitHub/comp240-production/L2_Red/Assets/ProCore/ProBuilder/Classes/ClassesLib/Triangle.dll</HintPath>
  </Reference>
  <Reference Include="ProBuilderEditor-Unity5">
- <HintPath>E:/Work/Firelock/L2_Red/Assets/ProCore/ProBuilder/Editor/ProBuilderEditor-Unity5.dll</HintPath>
+ <HintPath>C:/Users/Alastair/Documents/GitHub/comp240-production/L2_Red/Assets/ProCore/ProBuilder/Editor/ProBuilderEditor-Unity5.dll</HintPath>
  </Reference>
  <Reference Include="UnityEditor.Graphs">
  <HintPath>D:/Program Files/Unity/Editor/Data/Managed/UnityEditor.Graphs.dll</HintPath>
