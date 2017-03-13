@@ -349,10 +349,10 @@ namespace Prototype.NetworkLobby
 				if(lobbySlots[i] != null)
 					allready &= lobbySlots[i].readyToBegin;
 			}
-            // Author Ross /*
+            // Author Alli /*
             if (allready)
             {
-                mainMenuPanel.sizeDelta = mainMenuPanel.sizeDelta - mainMenuPanel.sizeDelta; //Set the size to be the same as the mainMenu size
+                mainMenuPanel.sizeDelta = mainMenuPanel.sizeDelta - mainMenuPanel.sizeDelta; // Minimise the main menu screen
                 ChangeTo(mapSelectionPanel); //Ones players have are ready, move onto the map screen
                 //StartCoroutine(ServerCountdownCoroutine());
             }

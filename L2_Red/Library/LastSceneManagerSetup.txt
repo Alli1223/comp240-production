@@ -1,4 +1,4 @@
 sceneSetups:
-- path: C:/Users/Alastair/Documents/GitHub/comp230-pre-production/Prototype-v4/L2_Red/Assets/Scenes/LobbyScene.unity
+- path: Assets/Scenes/LobbyScene.unity
   isLoaded: 1
   isActive: 1
