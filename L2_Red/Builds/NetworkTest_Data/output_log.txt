@@ -5,7 +5,7 @@ Direct3D:
     Renderer: NVIDIA GeForce GTX 965M (ID=0x13d9)
     Vendor:   NVIDIA
     VRAM:     2019 MB
-    Driver:   21.21.13.7866
+    Driver:   21.21.13.7878
 Begin MonoManager ReloadAssembly
 Platform assembly: C:\Users\Alastair\Documents\GitHub\comp240-production\L2_Red\Builds\NetworkTest_Data\Managed\UnityEngine.dll (this message is harmless)
 Loading C:\Users\Alastair\Documents\GitHub\comp240-production\L2_Red\Builds\NetworkTest_Data\Managed\UnityEngine.dll into Unity Child Domain
@@ -27,9 +27,246 @@ Platform assembly: C:\Users\Alastair\Documents\GitHub\comp240-production\L2_Red\
 Loading C:\Users\Alastair\Documents\GitHub\comp240-production\L2_Red\Builds\NetworkTest_Data\Managed\pb_Stl.dll into Unity Child Domain
 Platform assembly: C:\Users\Alastair\Documents\GitHub\comp240-production\L2_Red\Builds\NetworkTest_Data\Managed\Triangle.dll (this message is harmless)
 Loading C:\Users\Alastair\Documents\GitHub\comp240-production\L2_Red\Builds\NetworkTest_Data\Managed\Triangle.dll into Unity Child Domain
-- Completed reload, in  0.070 seconds
+- Completed reload, in  0.071 seconds
 Platform assembly: C:\Users\Alastair\Documents\GitHub\comp240-production\L2_Red\Builds\NetworkTest_Data\Managed\System.Core.dll (this message is harmless)
 Platform assembly: C:\Users\Alastair\Documents\GitHub\comp240-production\L2_Red\Builds\NetworkTest_Data\Managed\System.dll (this message is harmless)
-desktop: 1920x1080 60Hz; virtual: 3840x1080 at 0,0
+desktop: 3840x2160 60Hz; virtual: 3840x2160 at 0,0
 <RI> Initializing input.
 <RI> Input initialized.
+<RI> Initialized touch support.
+The referenced script on this Behaviour (Game Object 'LobbyManager') is missing!
+ 
+(Filename:  Line: 1754)
+
+UnloadTime: 6.840402 ms
+Setting up 1 worker threads for Enlighten.
+  Thread -> id: 2740 -> priority: 1 
+Initialize engine version: 5.5.0x1-CollabPreview (09b457573f85)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GTX 965M (ID=0x13d9)
+    Vendor:   NVIDIA
+    VRAM:     2019 MB
+    Driver:   21.21.13.7878
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\Alastair\Documents\GitHub\comp240-production\L2_Red\Builds\NetworkTest_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\Alastair\Documents\GitHub\comp240-production\L2_Red\Builds\NetworkTest_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\Alastair\Documents\GitHub\comp240-production\L2_Red\Builds\NetworkTest_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\Alastair\Documents\GitHub\comp240-production\L2_Red\Builds\NetworkTest_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\Alastair\Documents\GitHub\comp240-production\L2_Red\Builds\NetworkTest_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\Alastair\Documents\GitHub\comp240-production\L2_Red\Builds\NetworkTest_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\Alastair\Documents\GitHub\comp240-production\L2_Red\Builds\NetworkTest_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\Alastair\Documents\GitHub\comp240-production\L2_Red\Builds\NetworkTest_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\Users\Alastair\Documents\GitHub\comp240-production\L2_Red\Builds\NetworkTest_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll (this message is harmless)
+Loading C:\Users\Alastair\Documents\GitHub\comp240-production\L2_Red\Builds\NetworkTest_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll into Unity Child Domain
+Platform assembly: C:\Users\Alastair\Documents\GitHub\comp240-production\L2_Red\Builds\NetworkTest_Data\Managed\ProBuilderCore-Unity5.dll (this message is harmless)
+Loading C:\Users\Alastair\Documents\GitHub\comp240-production\L2_Red\Builds\NetworkTest_Data\Managed\ProBuilderCore-Unity5.dll into Unity Child Domain
+Platform assembly: C:\Users\Alastair\Documents\GitHub\comp240-production\L2_Red\Builds\NetworkTest_Data\Managed\ProBuilderMeshOps-Unity5.dll (this message is harmless)
+Loading C:\Users\Alastair\Documents\GitHub\comp240-production\L2_Red\Builds\NetworkTest_Data\Managed\ProBuilderMeshOps-Unity5.dll into Unity Child Domain
+Platform assembly: C:\Users\Alastair\Documents\GitHub\comp240-production\L2_Red\Builds\NetworkTest_Data\Managed\KDTree.dll (this message is harmless)
+Loading C:\Users\Alastair\Documents\GitHub\comp240-production\L2_Red\Builds\NetworkTest_Data\Managed\KDTree.dll into Unity Child Domain
+Platform assembly: C:\Users\Alastair\Documents\GitHub\comp240-production\L2_Red\Builds\NetworkTest_Data\Managed\pb_Stl.dll (this message is harmless)
+Loading C:\Users\Alastair\Documents\GitHub\comp240-production\L2_Red\Builds\NetworkTest_Data\Managed\pb_Stl.dll into Unity Child Domain
+Platform assembly: C:\Users\Alastair\Documents\GitHub\comp240-production\L2_Red\Builds\NetworkTest_Data\Managed\Triangle.dll (this message is harmless)
+Loading C:\Users\Alastair\Documents\GitHub\comp240-production\L2_Red\Builds\NetworkTest_Data\Managed\Triangle.dll into Unity Child Domain
+- Completed reload, in  0.037 seconds
+Platform assembly: C:\Users\Alastair\Documents\GitHub\comp240-production\L2_Red\Builds\NetworkTest_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\Alastair\Documents\GitHub\comp240-production\L2_Red\Builds\NetworkTest_Data\Managed\System.dll (this message is harmless)
+desktop: 3840x2160 60Hz; virtual: 3840x2160 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+The referenced script on this Behaviour (Game Object 'LobbyManager') is missing!
+ 
+(Filename:  Line: 1754)
+
+UnloadTime: 3.665573 ms
+Setting up 1 worker threads for Enlighten.
+  Thread -> id: 3acc -> priority: 1 
+NetworkLobbyManager no GamePlayer prefab is registered. Please add a GamePlayer prefab.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+DontDestroyOnLoad only work for root GameObjects or components on root GameObjects.
+ 
+(Filename:  Line: 447)
+
+Initialize engine version: 5.5.0x1-CollabPreview (09b457573f85)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GTX 965M (ID=0x13d9)
+    Vendor:   NVIDIA
+    VRAM:     2019 MB
+    Driver:   21.21.13.7878
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\Alastair\Documents\GitHub\comp240-production\L2_Red\Builds\NetworkTest_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\Alastair\Documents\GitHub\comp240-production\L2_Red\Builds\NetworkTest_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\Alastair\Documents\GitHub\comp240-production\L2_Red\Builds\NetworkTest_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\Alastair\Documents\GitHub\comp240-production\L2_Red\Builds\NetworkTest_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\Alastair\Documents\GitHub\comp240-production\L2_Red\Builds\NetworkTest_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\Alastair\Documents\GitHub\comp240-production\L2_Red\Builds\NetworkTest_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\Alastair\Documents\GitHub\comp240-production\L2_Red\Builds\NetworkTest_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\Alastair\Documents\GitHub\comp240-production\L2_Red\Builds\NetworkTest_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\Users\Alastair\Documents\GitHub\comp240-production\L2_Red\Builds\NetworkTest_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll (this message is harmless)
+Loading C:\Users\Alastair\Documents\GitHub\comp240-production\L2_Red\Builds\NetworkTest_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll into Unity Child Domain
+Platform assembly: C:\Users\Alastair\Documents\GitHub\comp240-production\L2_Red\Builds\NetworkTest_Data\Managed\ProBuilderCore-Unity5.dll (this message is harmless)
+Loading C:\Users\Alastair\Documents\GitHub\comp240-production\L2_Red\Builds\NetworkTest_Data\Managed\ProBuilderCore-Unity5.dll into Unity Child Domain
+Platform assembly: C:\Users\Alastair\Documents\GitHub\comp240-production\L2_Red\Builds\NetworkTest_Data\Managed\ProBuilderMeshOps-Unity5.dll (this message is harmless)
+Loading C:\Users\Alastair\Documents\GitHub\comp240-production\L2_Red\Builds\NetworkTest_Data\Managed\ProBuilderMeshOps-Unity5.dll into Unity Child Domain
+Platform assembly: C:\Users\Alastair\Documents\GitHub\comp240-production\L2_Red\Builds\NetworkTest_Data\Managed\KDTree.dll (this message is harmless)
+Loading C:\Users\Alastair\Documents\GitHub\comp240-production\L2_Red\Builds\NetworkTest_Data\Managed\KDTree.dll into Unity Child Domain
+Platform assembly: C:\Users\Alastair\Documents\GitHub\comp240-production\L2_Red\Builds\NetworkTest_Data\Managed\pb_Stl.dll (this message is harmless)
+Loading C:\Users\Alastair\Documents\GitHub\comp240-production\L2_Red\Builds\NetworkTest_Data\Managed\pb_Stl.dll into Unity Child Domain
+Platform assembly: C:\Users\Alastair\Documents\GitHub\comp240-production\L2_Red\Builds\NetworkTest_Data\Managed\Triangle.dll (this message is harmless)
+Loading C:\Users\Alastair\Documents\GitHub\comp240-production\L2_Red\Builds\NetworkTest_Data\Managed\Triangle.dll into Unity Child Domain
+- Completed reload, in  0.042 seconds
+Platform assembly: C:\Users\Alastair\Documents\GitHub\comp240-production\L2_Red\Builds\NetworkTest_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\Alastair\Documents\GitHub\comp240-production\L2_Red\Builds\NetworkTest_Data\Managed\System.dll (this message is harmless)
+desktop: 3840x2160 60Hz; virtual: 3840x2160 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+The referenced script on this Behaviour (Game Object 'LobbyManager') is missing!
+ 
+(Filename:  Line: 1754)
+
+UnloadTime: 4.972461 ms
+Setting up 1 worker threads for Enlighten.
+  Thread -> id: 28d8 -> priority: 1 
+MatchMakingClient ListMatches :https://localhost/json/reply/ListMatchRequest
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+MatchMakingClient ListMatches :https://localhost/json/reply/ListMatchRequest
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+MatchMakingClient ListMatches :https://localhost/json/reply/ListMatchRequest
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+NetworkLobbyManager no GamePlayer prefab is registered. Please add a GamePlayer prefab.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+DontDestroyOnLoad only work for root GameObjects or components on root GameObjects.
+ 
+(Filename:  Line: 447)
+
+DontDestroyOnLoad only work for root GameObjects or components on root GameObjects.
+ 
+(Filename:  Line: 447)
+
+DontDestroyOnLoad only work for root GameObjects or components on root GameObjects.
+ 
+(Filename:  Line: 447)
+
+Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
+UnloadinU 6 nluoadding 6 Uned filesi (Szerialized(fSeri now lo files no
+w loaded: 0)
+UnloadTime: 3.007360 ms
+C:\Users\Alastair\Documents\GitHub\comp240-production\L2_Red\Builds/firelock-multiplayer.txt
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+UnloadTime: 2.320175 ms
+C:\Users\Alastair\Documents\GitHub\comp240-production\L2_Red\Builds/firelock-multiplayer.txt
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+UnloadTime: 4.591948 ms
+C:\Users\Alastair\Documents\GitHub\comp240-production\L2_Red\Builds/firelock-multiplayer.txt
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 2160.
+Total: 2.025163 ms (FindLiveObjects: 0.158635 ms CreateObjectMapping: 0.069248 ms MarkObjects: 1.786680 ms  DeleteObjects: 0.009539 ms)
+
+ArgumentException: The Object you want to instantiate is null.
+  at UnityEngine.Object.CheckNullArgument (System.Object arg, System.String message) [0x00000] in <filename unknown>:0 
+  at UnityEngine.Object.Instantiate (UnityEngine.Object original, Vector3 position, Quaternion rotation) [0x00000] in <filename unknown>:0 
+  at UnityEngine.Object.Instantiate[GameObject] (UnityEngine.GameObject original, Vector3 position, Quaternion rotation) [0x00000] in <filename unknown>:0 
+  at UnityEngine.Networking.NetworkLobbyManager.SceneLoadedForPlayer (UnityEngine.Networking.NetworkConnection conn, UnityEngine.GameObject lobbyPlayerGameObject) [0x00000] in <filename unknown>:0 
+  at UnityEngine.Networking.NetworkLobbyManager.OnServerSceneLoadedMessage (UnityEngine.Networking.NetworkMessage netMsg) [0x00000] in <filename unknown>:0 
+  at UnityEngine.Networking.NetworkConnection.HandleReader (UnityEngine.Networking.NetworkReader reader, Int32 receivedSize, Int32 channelId) [0x00000] in <filename unknown>:0 
+  at UnityEngine.Networking.NetworkConnection.HandleBytes (System.Byte[] buffer, Int32 receivedSize, Int32 channelId) [0x00000] in <filename unknown>:0 
+  at UnityEngine.Networking.NetworkConnection.TransportRecieve (System.Byte[] bytes, Int32 numBytes, Int32 channelId) [0x00000] in <filename unknown>:0 
+  at UnityEngine.Networking.NetworkServer.OnData (UnityEngine.Networking.NetworkConnection conn, Int32 receivedSize, Int32 channelId) [0x00000] in <filename unknown>:0 
+  at UnityEngine.Networking.NetworkServer+ServerSimpleWrapper.OnData (UnityEngine.Networking.NetworkConnection conn, Int32 receivedSize, Int32 channelId) [0x00000] in <filename unknown>:0 
+  at UnityEngine.Networking.NetworkServerSimple.HandleData (Int32 connectionId, Int32 channelId, Int32 receivedSize, Byte error) [0x00000] in <filename unknown>:0 
+  at UnityEngine.Networking.NetworkServerSimple.Update () [0x00000] in <filename unknown>:0 
+  at UnityEngine.Networking.NetworkServer.InternalUpdate () [0x00000] in <filename unknown>:0 
+  at UnityEngine.Networking.NetworkServer.Update () [0x00000] in <filename unknown>:0 
+  at UnityEngine.Networking.NetworkIdentity.UNetStaticUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentException: The Object you want to instantiate is null.
+  at UnityEngine.Object.CheckNullArgument (System.Object arg, System.String message) [0x00000] in <filename unknown>:0 
+  at UnityEngine.Object.Instantiate (UnityEngine.Object original, Vector3 position, Quaternion rotation) [0x00000] in <filename unknown>:0 
+  at UnityEngine.Object.Instantiate[GameObject] (UnityEngine.GameObject original, Vector3 position, Quaternion rotation) [0x00000] in <filename unknown>:0 
+  at UnityEngine.Networking.NetworkLobbyManager.SceneLoadedForPlayer (UnityEngine.Networking.NetworkConnection conn, UnityEngine.GameObject lobbyPlayerGameObject) [0x00000] in <filename unknown>:0 
+  at UnityEngine.Networking.NetworkLobbyManager.OnServerSceneLoadedMessage (UnityEngine.Networking.NetworkMessage netMsg) [0x00000] in <filename unknown>:0 
+  at UnityEngine.Networking.NetworkConnection.HandleReader (UnityEngine.Networking.NetworkReader reader, Int32 receivedSize, Int32 channelId) [0x00000] in <filename unknown>:0 
+  at UnityEngine.Networking.NetworkConnection.HandleBytes (System.Byte[] buffer, Int32 receivedSize, Int32 channelId) [0x00000] in <filename unknown>:0 
+  at UnityEngine.Networking.NetworkConnection.TransportRecieve (System.Byte[] bytes, Int32 numBytes, Int32 channelId) [0x00000] in <filename unknown>:0 
+  at UnityEngine.Networking.NetworkServer.OnData (UnityEngine.Networking.NetworkConnection conn, Int32 receivedSize, Int32 channelId) [0x00000] in <filename unknown>:0 
+  at UnityEngine.Networking.NetworkServer+ServerSimpleWrapper.OnData (UnityEngine.Networking.NetworkConnection conn, Int32 receivedSize, Int32 channelId) [0x00000] in <filename unknown>:0 
+  at UnityEngine.Networking.NetworkServerSimple.HandleData (Int32 connectionId, Int32 channelId, Int32 receivedSize, Byte error) [0x00000] in <filename unknown>:0 
+  at UnityEngine.Networking.NetworkServerSimple.Update () [0x00000] in <filename unknown>:0 
+  at UnityEngine.Networking.NetworkServer.InternalUpdate () [0x00000] in <filename unknown>:0 
+  at UnityEngine.Networking.NetworkServer.Update () [0x00000] in <filename unknown>:0 
+  at UnityEngine.Networking.NetworkIdentity.UNetStaticUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 2143.
+Total: 4.098376 ms (FindLiveObjects: 0.248729 ms CreateObjectMapping: 0.114825 ms MarkObjects: 3.724576 ms  DeleteObjects: 0.009892 ms)
+
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 2145.
+Total: 3.232771 ms (FindLiveObjects: 0.243782 ms CreateObjectMapping: 0.164641 ms MarkObjects: 2.808094 ms  DeleteObjects: 0.015898 ms)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at ReadyUp.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at ReadyUp.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Log: connection {2} has been disconnected by timeout; address {::ffff:127.0.0.1:63300}
+ServerDisconnected due to error: Timeout
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+ClientRpc call on un-spawned object
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Prototype.NetworkLobby.LobbyPlayer.OnDestroy () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Prototype.NetworkLobby.LobbyPlayer.OnDestroy () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+The referenced script on this Behaviour (Game Object 'LobbyManager') is missing!
+ 
+(Filename:  Line: 1754)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 7.814473 ms
+
+Unloading 410 unused Assets to reduce memory usage. Loaded Objects now: 1126.
+Total: 1.963687 ms (FindLiveObjects: 0.114471 ms CreateObjectMapping: 0.061828 ms MarkObjects: 1.297348 ms  DeleteObjects: 0.489332 ms)
+
