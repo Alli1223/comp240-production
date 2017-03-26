@@ -109,12 +109,14 @@ Do some more reading up on the boost website about how to implement it.
 ## Week Nine
 Monday we had a lecture on networking and business stuff.
 Tuesday peer review on AI which is due next week.
+Worked on the market research Wednesday and Thursday. 
+Spent the rest of the week working on the AI to tidy the code up.
 
 ### Problems I encountered this week:
-
+Extremely unmotivated to work on comp240 production. I have no interest at all in what I am working on and since the team has stopped doing multiplayer I seems pointless. 
 
 ### How I aim to overcome these issues:
-
+No idea.
 
 
 
