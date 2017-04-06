@@ -24,11 +24,15 @@ namespace Prototype.NetworkLobby
         [Header("UI Reference")]
         public LobbyTopPanel topPanel;
 
+        
+
         public RectTransform mainMenuPanel;
         public RectTransform lobbyPanel;
         // Author Ross /*
         //Unit Selection GUI //Added in to link our menu's in with unities lobby system
         public RectTransform unitSelectionPanel;
+
+        public RectTransform Background;
 
         //Map Selection GUI //Added in to link our menu's in with unities lobby system 
         public RectTransform mapSelectionPanel;
@@ -118,6 +122,8 @@ namespace Prototype.NetworkLobby
 
                 Destroy(GameObject.Find("MainMenuUI(Clone)"));
 
+                
+
                 //backDelegate = StopGameClbk;
                 topPanel.isInGame = true;
                 topPanel.ToggleVisibility(false);
@@ -168,7 +174,8 @@ namespace Prototype.NetworkLobby
         public void GoBackButton()
         {
             backDelegate();
-			topPanel.isInGame = false;
+            topPanel.isInGame = false;
+           
         }
 
         // ----------------- Server management
@@ -393,7 +400,9 @@ namespace Prototype.NetworkLobby
                     (lobbySlots[i] as LobbyPlayer).RpcUpdateCountdown(0);
                 }
             }
-            //Author Ross /*
+            //Author Alli /*
+            //playScene = SceneManager.GetSceneAt(1).ToString();
+
             ServerChangeScene(playScene); //Load our firelock scene
 
         }
@@ -401,11 +410,16 @@ namespace Prototype.NetworkLobby
         public void ChangeMenu()
         {
             ChangeTo(unitSelectionPanel);
+            
         }
 
         public void StartGame()
         {
+            
             StartCoroutine(ServerCountdownCoroutine());
+
+            //Disable lobby background
+            Background.gameObject.SetActive(false);
         }
         // */
 
