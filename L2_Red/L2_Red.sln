@@ -1,9 +1,9 @@
+﻿
 Microsoft Visual Studio Solution File, Format Version 11.00
-# Visual Studio 2008
-
-Project("{6BE149F9-5F16-37CB-ADCD-C167CFDB2C2E}") = "L2_Red", "Assembly-CSharp.csproj", "{02F4D23D-89F0-6FE5-7457-9C715F9EBE91}"
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "L2_Red", "Assembly-CSharp.csproj", "{02F4D23D-89F0-6FE5-7457-9C715F9EBE91}"
 EndProject
-Project("{6BE149F9-5F16-37CB-ADCD-C167CFDB2C2E}") = "L2_Red", "Assembly-CSharp-Editor.csproj", "{DF4E4C3B-9D3F-8BE2-BA6D-3B36494DB211}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "L2_Red", "Assembly-CSharp-Editor.csproj", "{DF4E4C3B-9D3F-8BE2-BA6D-3B36494DB211}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

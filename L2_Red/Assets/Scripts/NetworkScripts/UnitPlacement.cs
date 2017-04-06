@@ -53,6 +53,7 @@ public class UnitPlacement : NetworkBehaviour
     //Author Ross Perry /*
     void Update()
     {
+        // if the local machine is local and not server then place units
         if (isLocalPlayer)
         {
             PlaceUnits(); 

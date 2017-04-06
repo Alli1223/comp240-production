@@ -113,14 +113,33 @@ Worked on the market research Wednesday and Thursday.
 Spent the rest of the week working on the AI to tidy the code up.
 
 ### Problems I encountered this week:
-Extremely unmotivated to work on comp240 production. I have no interest at all in what I am working on and since the team has stopped doing multiplayer I seems pointless. 
+Extremely unmotivated to work on comp240 production. I have no interest at all in what I am working on and since the team has stopped doing multiplayer it seems pointless. 
 
 ### How I aim to overcome these issues:
 No idea.
 
 
 
-##Week Ten
+## Week Ten
+Monday was peer review of market evaluation essay which I got some very helpful feedback for.
+Spent Monday afternoon working on getting a base project working for the client.
+Tuesday was review of research proposal.
+Spend the rest of the week working on finishing research proposals and business essays.
 
+### Problems I encountered this week:
+Leaving the research journals to the last minute.
+
+
+### How I aim to overcome these issues:
+
+
+
+## Week Eleven
+Monday Was sprint review for 240 project which I have done nothing for, because of previews weeks being deadlines for other projects that I have been prioritizing.
+
+### Problems I encountered this week:
+
+
+### How I aim to overcome these issues:
 
 

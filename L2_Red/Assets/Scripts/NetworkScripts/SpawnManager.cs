@@ -47,13 +47,10 @@ public class SpawnManager : NetworkManager //Enables creation of a manual networ
     //Called when the server connection is first established
     public override void OnServerConnect(NetworkConnection conn) //To modify any of the original network manager behaviour we need to override it
     {
-        
-        if (doOnce == false)
-        {
-            doOnce = true;
+
             OnServerAddPlayer(conn, playerId);
             serverConnected = true;
-        }
+        
        
     }
 
@@ -87,9 +84,9 @@ public class SpawnManager : NetworkManager //Enables creation of a manual networ
     public override void OnServerAddPlayer(NetworkConnection conn, short playerControllerId)
     {
         //GameObject player = (GameObject)Instantiate(Units[playerId%2], GetStartPosition().transform.position, Quaternion.identity);
-        GameObject newPlayer = GameObject.Instantiate(Units[playerId%2]); //Check the array and spawn the correct player
+        GameObject newPlayer = GameObject.Instantiate(Units[playerId]); //Check the array and spawn the correct player
         newPlayer.transform.position = GetStartPosition().transform.position + Vector3.right * playerControllerId; 
-        NetworkServer.AddPlayerForConnection(conn, Units[playerId%2], playerId);
+        NetworkServer.AddPlayerForConnection(conn, Units[playerId], playerId);
     }
 
     //Called once the scene has been loaded on the clients
