@@ -82,6 +82,7 @@
      <Compile Include="Assets\Scripts\NetworkScripts\CameraSwitch.cs" />
      <Compile Include="Assets\Scripts\NetworkScripts\CharacterMovement.cs" />
      <Compile Include="Assets\Scripts\NetworkScripts\GameController.cs" />
+     <Compile Include="Assets\Scripts\NetworkScripts\GameSettings.cs" />
      <Compile Include="Assets\Scripts\NetworkScripts\HealthManager.cs" />
      <Compile Include="Assets\Scripts\NetworkScripts\InitiateSpawner.cs" />
      <Compile Include="Assets\Scripts\NetworkScripts\LobbyManager.cs" />
