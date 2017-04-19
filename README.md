@@ -143,3 +143,20 @@ Monday Was sprint review for 240 project which I have done nothing for, because 
 ### How I aim to overcome these issues:
 
 
+##Easter Week One
+Spend most of the first week of Easter working on the client-server connection and managing the issues that arose with that project
+
+### Problems I encountered this week:
+
+
+### How I aim to overcome these issues:
+
+##Easter Week two
+Spent most of week two working on the comp 240 production project.
+
+### Problems I encountered this week:
+
+
+### How I aim to overcome these issues:
+
+##Week Twelve
