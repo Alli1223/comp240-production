@@ -1,4 +1,0 @@
-sceneSetups:
-- path: E:/Work/comp240/Prototype V2/L2_Red10/Assets/map.unity
-  isLoaded: 1
-  isActive: 1

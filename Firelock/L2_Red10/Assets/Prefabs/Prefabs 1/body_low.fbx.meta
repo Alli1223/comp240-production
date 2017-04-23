@@ -1,0 +1,169 @@
+fileFormatVersion: 2
+guid: 358124489c6a560418fea4f3f1227e4f
+timeCreated: 1479460230
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: arms1
+    100002: //RootNode
+    100004: boots1
+    100006: brows1
+    100008: chest1
+    100010: chestplate1
+    100012: collar1
+    100014: eyes1
+    100016: feather3
+    100018: feather4
+    100020: gloves1
+    100022: greaves1
+    100024: hair1
+    100026: hat1
+    100028: polySurface1
+    100030: quad_face1
+    100032: quad_face2
+    100034: rucksack1
+    100036: scarf1
+    100038: shirt3
+    100040: straps1
+    100042: teeth_bottom1
+    100044: teeth_top1
+    100046: transform1
+    100048: transform10
+    100050: transform11
+    100052: transform12
+    100054: transform13
+    100056: transform14
+    100058: transform15
+    100060: transform16
+    100062: transform17
+    100064: transform18
+    100066: transform19
+    100068: transform2
+    100070: transform20
+    100072: transform21
+    100074: transform22
+    100076: transform3
+    100078: transform4
+    100080: transform5
+    100082: transform6
+    100084: transform7
+    100086: transform8
+    100088: transform9
+    100090: trousers1
+    100092: uniform4
+    400000: arms1
+    400002: //RootNode
+    400004: boots1
+    400006: brows1
+    400008: chest1
+    400010: chestplate1
+    400012: collar1
+    400014: eyes1
+    400016: feather3
+    400018: feather4
+    400020: gloves1
+    400022: greaves1
+    400024: hair1
+    400026: hat1
+    400028: polySurface1
+    400030: quad_face1
+    400032: quad_face2
+    400034: rucksack1
+    400036: scarf1
+    400038: shirt3
+    400040: straps1
+    400042: teeth_bottom1
+    400044: teeth_top1
+    400046: transform1
+    400048: transform10
+    400050: transform11
+    400052: transform12
+    400054: transform13
+    400056: transform14
+    400058: transform15
+    400060: transform16
+    400062: transform17
+    400064: transform18
+    400066: transform19
+    400068: transform2
+    400070: transform20
+    400072: transform21
+    400074: transform22
+    400076: transform3
+    400078: transform4
+    400080: transform5
+    400082: transform6
+    400084: transform7
+    400086: transform8
+    400088: transform9
+    400090: trousers1
+    400092: uniform4
+    2300000: quad_face2
+    3300000: quad_face2
+    4300000: quad_face2
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

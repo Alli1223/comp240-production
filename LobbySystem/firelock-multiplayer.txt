@@ -1,0 +1,170 @@
+Turtle War debug file created!
+Debug Log: hello     Script Written from: Switch     1/24/2017 11:41:25 AM
+Debug Log: hello     Script Written from: Switch     1/24/2017 11:42:01 AM
+Debug Log: hello     Script Written from: Switch     1/24/2017 11:42:29 AM
+Debug Log: hello     Script Written from: Switch     1/24/2017 11:42:47 AM
+Debug Log: hello     Script Written from: Switch     1/24/2017 11:43:04 AM
+Debug Log: hello     Script Written from: Switch     1/24/2017 11:44:49 AM
+Debug Log: dick     Script Written from: Switch     1/24/2017 11:44:49 AM
+Debug Log: hello     Script Written from: Switch     1/24/2017 11:48:38 AM
+Debug Log: dick     Script Written from: Switch     1/24/2017 11:48:38 AM
+Debug Log: hello     Script Written from: Switch     1/24/2017 11:48:45 AM
+Debug Log: dick     Script Written from: Switch     1/24/2017 11:48:45 AM
+Debug Log: hello     Script Written from: Switch     1/24/2017 11:49:04 AM
+Debug Log: dick     Script Written from: Switch     1/24/2017 11:49:04 AM
+Debug Log: hello     Script Written from: Switch     1/24/2017 11:49:46 AM
+Debug Log: dick     Script Written from: Switch     1/24/2017 11:49:46 AM
+Debug Log: changed to 1     Script Written from: Switch     1/24/2017 11:51:56 AM
+Debug Log: changed to 1     Script Written from: Switch     1/24/2017 11:52:24 AM
+Debug Log: hello     Script Written from: Switch     1/24/2017 11:54:08 AM
+Debug Log: dick     Script Written from: Switch     1/24/2017 11:54:08 AM
+Debug Log: hello     Script Written from: Switch     1/24/2017 11:54:10 AM
+Debug Log: dick     Script Written from: Switch     1/24/2017 11:54:10 AM
+Debug Log: hello     Script Written from: Switch     1/24/2017 11:55:59 AM
+Debug Log: dick     Script Written from: Switch     1/24/2017 11:55:59 AM
+Debug Log: hello     Script Written from: Switch     1/24/2017 11:56:09 AM
+Debug Log: dick     Script Written from: Switch     1/24/2017 11:56:09 AM
+Debug Log: hello     Script Written from: Switch     1/24/2017 12:08:43 PM
+Debug Log: dick     Script Written from: Switch     1/24/2017 12:08:43 PM
+Debug Log: hello     Script Written from: Switch     1/24/2017 12:08:44 PM
+Debug Log: dick     Script Written from: Switch     1/24/2017 12:08:44 PM
+Debug Log: changed to 1     Script Written from: Switch     1/24/2017 12:09:26 PM
+Debug Log: hello     Script Written from: Switch     1/24/2017 12:10:17 PM
+Debug Log: dick     Script Written from: Switch     1/24/2017 12:10:17 PM
+Debug Log: hello     Script Written from: Switch     1/24/2017 12:10:19 PM
+Debug Log: dick     Script Written from: Switch     1/24/2017 12:10:19 PM
+Debug Log: hello     Script Written from: Switch     1/24/2017 12:13:18 PM
+Debug Log: dick     Script Written from: Switch     1/24/2017 12:13:18 PM
+Debug Log: hello     Script Written from: Switch     1/24/2017 12:13:19 PM
+Debug Log: dick     Script Written from: Switch     1/24/2017 12:13:20 PM
+Debug Log: changed to 1     Script Written from: Switch     1/24/2017 12:14:02 PM
+Debug Log: changed to 1     Script Written from: Switch     1/24/2017 12:14:37 PM
+Debug Log: hello     Script Written from: Switch     1/24/2017 12:19:22 PM
+Debug Log: dick     Script Written from: Switch     1/24/2017 12:19:22 PM
+Debug Log: hello     Script Written from: Switch     1/24/2017 12:19:23 PM
+Debug Log: dick     Script Written from: Switch     1/24/2017 12:19:23 PM
+Debug Log: hello     Script Written from: Switch     1/24/2017 12:20:18 PM
+Debug Log: dick     Script Written from: Switch     1/24/2017 12:20:18 PM
+Debug Log: hello     Script Written from: Switch     1/24/2017 12:20:21 PM
+Debug Log: dick     Script Written from: Switch     1/24/2017 12:20:21 PM
+Debug Log: hello     Script Written from: Switch     1/24/2017 12:29:23 PM
+Debug Log: dick     Script Written from: Switch     1/24/2017 12:29:23 PM
+Debug Log: hello     Script Written from: Switch     1/25/2017 11:38:22 AM
+Debug Log: hello     Script Written from: Switch     1/25/2017 11:39:26 AM
+Debug Log: changed to 2     Script Written from: Switch     1/25/2017 11:39:46 AM
+Debug Log: changed to 2     Script Written from: Switch     1/25/2017 11:40:03 AM
+Debug Log: changed to 2     Script Written from: Switch     1/25/2017 11:40:06 AM
+Debug Log: changed to 2     Script Written from: Switch     1/25/2017 11:40:08 AM
+Debug Log: changed to 2     Script Written from: Switch     1/25/2017 11:40:10 AM
+Debug Log: changed to 2     Script Written from: Switch     1/25/2017 11:40:16 AM
+Debug Log: hello     Script Written from: Switch     1/25/2017 11:45:30 AM
+Debug Log: hello     Script Written from: Switch     1/25/2017 11:45:34 AM
+Debug Log: changed to 2     Script Written from: Switch     1/25/2017 11:46:13 AM
+Debug Log: hello     Script Written from: Switch     1/25/2017 11:50:10 AM
+Debug Log: hello     Script Written from: Switch     1/25/2017 11:50:24 AM
+Debug Log: changed to 2     Script Written from: Switch     1/25/2017 11:50:40 AM
+Debug Log: hello     Script Written from: Switch     1/25/2017 11:55:31 AM
+Debug Log: hello     Script Written from: Switch     1/25/2017 11:55:42 AM
+Debug Log: changed to 2     Script Written from: Switch     1/25/2017 11:56:11 AM
+Debug Log: hello     Script Written from: Switch     1/25/2017 11:57:21 AM
+Debug Log: hello     Script Written from: Switch     1/25/2017 11:57:21 AM
+Debug Log: hello     Script Written from: Switch     1/25/2017 12:04:35 PM
+Debug Log: hello     Script Written from: Switch     1/25/2017 12:04:37 PM
+Debug Log: hello     Script Written from: Switch     1/25/2017 12:07:43 PM
+Debug Log: hello     Script Written from: Switch     1/25/2017 12:07:43 PM
+Debug Log: hello     Script Written from: Switch     1/25/2017 12:21:00 PM
+Debug Log: hello     Script Written from: Switch     1/25/2017 12:21:01 PM
+Debug Log: changed to 2     Script Written from: Switch     1/25/2017 12:21:32 PM
+Debug Log: changed to 2     Script Written from: Switch     1/25/2017 12:21:33 PM
+Debug Log: changed to 2     Script Written from: Switch     1/25/2017 12:21:33 PM
+Debug Log: changed to 2     Script Written from: Switch     1/25/2017 12:21:34 PM
+Debug Log: changed to 2     Script Written from: Switch     1/25/2017 12:21:34 PM
+Debug Log: hello     Script Written from: Switch     1/25/2017 12:34:51 PM
+Debug Log: hello     Script Written from: Switch     1/25/2017 12:34:58 PM
+Debug Log: changed to 2     Script Written from: Switch     1/25/2017 12:35:21 PM
+Debug Log: changed to 2     Script Written from: Switch     1/25/2017 12:39:42 PM
+Debug Log: changed to 2     Script Written from: Switch     1/25/2017 12:39:42 PM
+Debug Log: changed to 2     Script Written from: Switch     1/25/2017 12:39:43 PM
+Debug Log: changed to 2     Script Written from: Switch     1/25/2017 12:39:43 PM
+Debug Log: changed to 2     Script Written from: Switch     1/25/2017 12:39:43 PM
+Debug Log: changed to 2     Script Written from: Switch     1/25/2017 12:39:43 PM
+Debug Log: changed to 2     Script Written from: Switch     1/25/2017 12:39:43 PM
+Debug Log: changed to 2     Script Written from: Switch     1/25/2017 12:39:44 PM
+Debug Log: changed to 2     Script Written from: Switch     1/25/2017 12:39:44 PM
+Debug Log: changed to 2     Script Written from: Switch     1/25/2017 12:39:44 PM
+Debug Log: changed to 2     Script Written from: Switch     1/25/2017 12:39:45 PM
+Debug Log: changed to 2     Script Written from: Switch     1/25/2017 12:39:45 PM
+Debug Log: changed to 2     Script Written from: Switch     1/25/2017 12:39:46 PM
+Debug Log: changed to 2     Script Written from: Switch     1/25/2017 12:39:46 PM
+Debug Log: changed to 2     Script Written from: Switch     1/25/2017 12:39:46 PM
+Debug Log: hello     Script Written from: Switch     1/25/2017 1:10:21 PM
+Debug Log: hello     Script Written from: Switch     1/25/2017 1:10:24 PM
+Debug Log: changed to 2     Script Written from: Switch     1/25/2017 1:10:41 PM
+Debug Log: changed to 2     Script Written from: Switch     1/25/2017 1:10:42 PM
+Debug Log: changed to 2     Script Written from: Switch     1/25/2017 1:10:42 PM
+Debug Log: changed to 2     Script Written from: Switch     1/25/2017 1:10:43 PM
+Debug Log: changed to 2     Script Written from: Switch     1/25/2017 1:10:43 PM
+Debug Log: changed to 2     Script Written from: Switch     1/25/2017 1:10:43 PM
+Debug Log: changed to 2     Script Written from: Switch     1/25/2017 1:10:43 PM
+Debug Log: changed to 2     Script Written from: Switch     1/25/2017 1:10:43 PM
+Debug Log: changed to 2     Script Written from: Switch     1/25/2017 1:10:43 PM
+Debug Log: changed to 2     Script Written from: Switch     1/25/2017 1:10:44 PM
+Debug Log: changed to 2     Script Written from: Switch     1/25/2017 1:10:45 PM
+Debug Log: changed to 2     Script Written from: Switch     1/25/2017 1:10:45 PM
+Debug Log: changed to 2     Script Written from: Switch     1/25/2017 1:10:45 PM
+Debug Log: changed to 2     Script Written from: Switch     1/25/2017 1:10:45 PM
+Debug Log: changed to 2     Script Written from: Switch     1/25/2017 1:10:45 PM
+Debug Log: changed to 2     Script Written from: Switch     1/25/2017 1:10:45 PM
+Debug Log: changed to 2     Script Written from: Switch     1/25/2017 1:10:46 PM
+Debug Log: changed to 2     Script Written from: Switch     1/25/2017 1:10:46 PM
+Debug Log: changed to 2     Script Written from: Switch     1/25/2017 1:10:47 PM
+Debug Log: changed to 2     Script Written from: Switch     1/25/2017 1:10:47 PM
+Debug Log: changed to 2     Script Written from: Switch     1/25/2017 1:10:48 PM
+Debug Log: changed to 2     Script Written from: Switch     1/25/2017 1:10:48 PM
+Debug Log: changed to 2     Script Written from: Switch     1/25/2017 1:10:48 PM
+Debug Log: changed to 2     Script Written from: Switch     1/25/2017 1:10:48 PM
+Debug Log: changed to 2     Script Written from: Switch     1/25/2017 1:10:48 PM
+Debug Log: hello     Script Written from: Switch     1/25/2017 1:20:40 PM
+Debug Log: hello     Script Written from: Switch     1/25/2017 1:20:53 PM
+Debug Log: changed to 2     Script Written from: Switch     1/25/2017 1:21:07 PM
+Debug Log: changed to 2     Script Written from: Switch     1/25/2017 1:21:20 PM
+Debug Log: hello     Script Written from: Switch     1/25/2017 1:40:13 PM
+Debug Log: hello     Script Written from: Switch     1/25/2017 1:59:43 PM
+Debug Log: hello     Script Written from: Switch     1/25/2017 2:00:00 PM
+Debug Log: changed to 2     Script Written from: Switch     1/25/2017 2:00:19 PM
+Debug Log: changed to 2     Script Written from: Switch     1/25/2017 2:00:29 PM
+Debug Log: hello     Script Written from: Switch     1/25/2017 2:24:16 PM
+Debug Log: hello     Script Written from: Switch     1/25/2017 2:24:27 PM
+Debug Log: changed to 2     Script Written from: Switch     1/25/2017 2:24:56 PM
+Debug Log: hello     Script Written from: Switch     1/25/2017 2:25:48 PM
+Debug Log: hello     Script Written from: Switch     1/25/2017 2:25:52 PM
+Debug Log: changed to 2     Script Written from: Switch     1/25/2017 2:26:15 PM
+Debug Log: changed to 2     Script Written from: Switch     1/25/2017 2:26:53 PM
+Debug Log: changed to 2     Script Written from: Switch     1/25/2017 2:30:34 PM
+Debug Log: hello     Script Written from: Switch     1/25/2017 2:32:38 PM
+Debug Log: hello     Script Written from: Switch     1/25/2017 2:32:39 PM
+Debug Log: changed to 2     Script Written from: Switch     1/25/2017 2:33:00 PM
+Debug Log: changed to 2     Script Written from: Switch     1/25/2017 2:33:12 PM
+Debug Log: hello     Script Written from: Switch     1/25/2017 2:34:54 PM
+Debug Log: hello     Script Written from: Switch     1/25/2017 2:34:54 PM
+Debug Log: hello     Script Written from: Switch     1/25/2017 9:51:28 PM
+Debug Log: hello     Script Written from: Switch     1/25/2017 9:51:37 PM
+Debug Log: hello     Script Written from: Switch     1/25/2017 9:53:36 PM
+Debug Log: hello     Script Written from: Switch     1/25/2017 9:53:47 PM
+Debug Log: hello     Script Written from: Switch     1/25/2017 9:55:35 PM
+Debug Log: hello     Script Written from: Switch     1/25/2017 9:58:11 PM
+Debug Log: hello     Script Written from: Switch     1/25/2017 9:58:12 PM
+Debug Log: hello     Script Written from: Switch     1/25/2017 10:18:50 PM
+Debug Log: hello     Script Written from: Switch     1/25/2017 10:19:00 PM
+Debug Log: hello     Script Written from: Switch     1/25/2017 11:05:13 PM
+Debug Log: hello     Script Written from: Switch     1/25/2017 11:05:20 PM
+Debug Log: hello     Script Written from: Switch     1/25/2017 11:09:17 PM
+Debug Log: hello     Script Written from: Switch     1/25/2017 11:09:24 PM
+Debug Log: hello     Script Written from: Switch     1/25/2017 11:11:07 PM
+Debug Log: hello     Script Written from: Switch     1/25/2017 11:11:19 PM
+Debug Log: hello     Script Written from: Switch     1/25/2017 11:14:00 PM
+Debug Log: hello     Script Written from: Switch     1/25/2017 11:14:01 PM
+Debug Log: hello     Script Written from: Switch     1/26/2017 10:48:53 AM
+Debug Log: hello     Script Written from: Switch     1/26/2017 10:49:59 AM
+Debug Log: hello     Script Written from: Switch     1/26/2017 3:48:34 PM
+Debug Log: hello     Script Written from: Switch     1/26/2017 3:48:35 PM
