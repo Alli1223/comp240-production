@@ -17,6 +17,7 @@ namespace Prototype.NetworkLobby
         //public RectTransform lobbyPanel;
 
         private string map;
+        int selectedUnit;
 
         public Dropdown UnitDropdown;
 
@@ -26,24 +27,23 @@ namespace Prototype.NetworkLobby
 
             //Change map to "FireLock
             map = "Firelock";
-            //lobbyManager.ServerChangeScene("map");
-            //Continue();
         }
         public void onClickMapTwo()
         {
             // Change map to othermap
             map = "map";
-            //lobbyManager.ServerChangeScene("Firelock");
-            //Continue();
         }
 
         public void Continue()
         {
-            if(map!= null)
+            //Used for getting the players selected unit from dropdown
+            selectedUnit = UnitDropdown.value;
+
+            if (map != null)
             {
-                if(map == "Firelock")
+                if (map == "Firelock")
                     lobbyManager.ServerChangeScene(map);
-                
+
                 else if (map == "map")
                     lobbyManager.ServerChangeScene(map);
             }
