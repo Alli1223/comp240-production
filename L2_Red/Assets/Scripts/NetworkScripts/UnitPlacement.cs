@@ -80,9 +80,10 @@ public class UnitPlacement : NetworkBehaviour
     void PlaceUnits()
     {
         mouse = Camera.main.ScreenPointToRay(Input.mousePosition); //Can use the main camera singleton as a reference because we only have one camera to switch
-
-        if (Physics.Raycast(mouse, out click) && canPlace == true)
+        
+        if (Physics.Raycast(mouse, out click))
         {
+            Debug.Log("Placing Unit");
             Vector3 spawnPosition = click.point;
             Quaternion spawnRotation = this.gameObject.transform.rotation;
 

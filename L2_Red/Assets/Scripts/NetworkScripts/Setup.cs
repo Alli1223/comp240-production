@@ -24,7 +24,7 @@ public class Setup : NetworkBehaviour //Initialises network functionality
         {
             for (int i = 0; i < disableComponent.Length; i++)
             {
-                disableComponent[i].enabled = false;
+                //disableComponent[i].enabled = false;
             }
         } 
         else
@@ -32,7 +32,7 @@ public class Setup : NetworkBehaviour //Initialises network functionality
             lobbyCamera = Camera.main; //Handles setting the scene camera if we're not the local host
             if (lobbyCamera != null)
             {
-                lobbyCamera.gameObject.SetActive(false); 
+               // lobbyCamera.gameObject.SetActive(false); 
             }
 
         }

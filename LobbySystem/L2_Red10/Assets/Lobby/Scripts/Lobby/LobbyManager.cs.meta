@@ -1,0 +1,26 @@
+fileFormatVersion: 2
+guid: 38de513803c5e60498ad31fbc327b120
+timeCreated: 1478539239
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - m_PlayerPrefab: {fileID: 1000012719270086, guid: f385f84e545748d42a2cf5e6c9f211e6,
+      type: 2}
+  - matchMaker: {instanceID: 0}
+  - m_LobbyPlayerPrefab: {instanceID: 0}
+  - m_GamePlayerPrefab: {instanceID: 0}
+  - topPanel: {instanceID: 0}
+  - mainMenuPanel: {instanceID: 0}
+  - lobbyPanel: {instanceID: 0}
+  - infoPanel: {instanceID: 0}
+  - countdownPanel: {instanceID: 0}
+  - addPlayerButton: {instanceID: 0}
+  - backButton: {instanceID: 0}
+  - statusInfo: {instanceID: 0}
+  - hostInfo: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
